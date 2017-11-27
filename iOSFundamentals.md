@@ -128,3 +128,4 @@ These are further concepts that you should learn over your time as an iOS develo
   * AFNetworking
   * [RestKit](https://github.com/RestKit/RestKit/wiki)
 
+While working your way through this remember it is not an exhaustive list, it is instead a good foundation on which to build your development knowledge base.
